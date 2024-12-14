@@ -1,12 +1,12 @@
 :root {
-  --accent-color: #ff0070;
-  --accent-font: 'IBM Plex Mono';
-  --main-color: #DB00FF;
-  --hover-color: #FF007066;
+  --main-color: #db00ff;
   --background-image: url(../images/cover-image-dark.png);
-  --title-decor-color: #ff0070;
   --title-color: #000028;
-  --text-color:  #F1B2CE;
-  --decorated-color: #ff0070;
   --display: flex;
+  --accent-color: #ff0070;
+  --accent-font: "IBM Plex Mono";
+  --hover-color: #ff007066;
+  --title-decor-color: #ff0070;
+  --text-color: #f1b2ce;
+  --decorated-color: #ff0070;
 }
